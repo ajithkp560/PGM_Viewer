@@ -1,0 +1,9 @@
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\bin\Debug\PgmViewer.exe.config
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\bin\Debug\PgmViewer.exe
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\bin\Debug\PgmViewer.pdb
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.csprojResolveAssemblyReference.cache
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.Form1.resources
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.Properties.Resources.resources
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.csproj.GenerateResource.Cache
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.exe
+c:\users\terminal\documents\visual studio 2015\Projects\PgmViewer\PgmViewer\obj\Debug\PgmViewer.pdb
